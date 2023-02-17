@@ -1,2 +1,3 @@
 # hojas-trabajo-ipc2
- Hojas de trabajo realizadas en la clase magistral IPC2N_1S2023  
+Nombre: Mario Ernesto Marroquín Pérez
+Carné: 202110509
